@@ -1,0 +1,3 @@
+# ImageSlider - How to apply a watermark to images
+
+This example illustrates how to apply a watermark to images displayed in **ImageSlider**. Although ImageSlider does not provide the functionality to apply watermarks out of the box, this task can be done by creating an item template that contains the BinaryImage extension. The main idea is to create **System.Drawing.Image** and **System.Drawing.Graphics** instances from images, apply a watermark to the Graphics instance, and then convert the resulting image to an array of bytes. The **PhotoUtils** and **ImageHelper** classes are used for this.
