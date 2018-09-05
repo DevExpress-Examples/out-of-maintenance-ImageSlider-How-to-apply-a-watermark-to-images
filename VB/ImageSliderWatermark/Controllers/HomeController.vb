@@ -2,6 +2,7 @@ Public Class HomeController
     Inherits System.Web.Mvc.Controller
 
     Function Index() As ActionResult
+        ViewData("isWatermarkApplied") = True
         Return View()
     End Function
 

@@ -10,7 +10,7 @@ namespace ImageSliderWithWatermark.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["isWatermarkApplied"] = false;
+            ViewData["isWatermarkApplied"] = true;
             return View();
         }
 
