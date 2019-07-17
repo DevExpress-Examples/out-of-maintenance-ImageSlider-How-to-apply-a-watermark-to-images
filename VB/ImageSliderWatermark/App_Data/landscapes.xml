@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Id="1" ImageUrl="~/Content/Images/landscapes/01.jpg" ThumbnailUrl="~/Content/Images/landscapes/Small/01.jpg" />
+  <item Id="2" ImageUrl="~/Content/Images/landscapes/02.jpg" ThumbnailUrl="~/Content/Images/landscapes/Small/02.jpg" />
+  <item Id="3" ImageUrl="~/Content/Images/landscapes/03.jpg" ThumbnailUrl="~/Content/Images/landscapes/Small/03.jpg" />
+</items>
