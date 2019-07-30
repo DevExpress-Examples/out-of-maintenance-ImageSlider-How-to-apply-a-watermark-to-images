@@ -1,5 +1,8 @@
 
 # ImageSlider - How to apply a watermark to images
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/147413168/)**
+<!-- run online end -->
 
 *Files to look at:*
 * [HomeController.cs](https://github.com/DevExpress-Examples/ImageSlider-How-to-apply-a-watermark-to-images/blob/17.1.2%2B/CS/ImageSliderWithWatermark/Controllers/HomeController.cs) ([VB](https://github.com/DevExpress-Examples/ImageSlider-How-to-apply-a-watermark-to-images/blob/17.1.2%2B/VB/ImageSliderWatermark/Controllers/HomeController.vb))
